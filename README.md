@@ -1,6 +1,6 @@
 # 🔐 PY 2FA - 极致安全的本地两步验证器
 
-[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.8.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **PY 2FA** 是一款基于 Python 开发的纯本地、轻量级两步验证（2FA / TOTP）桌面客户端。它专为追求极致隐私和硬核安全的技术爱好者设计，无需联网，所有密钥全部本地加密存储，并内置了多项反窃取防御机制。
@@ -18,7 +18,7 @@
 ## 🚀 运行环境
 
 *   **操作系统**：Windows 7 +（由于使用了底层 Windows API，暂不支持 Linux / macOS）
-*   **Python 环境**：Python 3.10 或更高版本
+*   **Python 环境**：Python 3.8.10 或更高版本
 *   **硬件要求**：需要一台物理机（不支持虚拟机）
 
 ## 📦 从源码运行
