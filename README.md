@@ -5,7 +5,7 @@
 
 **PY 2FA** 是一款基于 Python 开发的纯本地、轻量级两步验证（2FA / TOTP）桌面客户端。它专为追求极致隐私和硬核安全的技术爱好者设计，无需联网，所有密钥全部本地加密存储，并内置了多项反窃取防御机制。
 
-## [不会编译?,点我](https://github.com/disimingqianqian/PY-2FA/releases/PY_2FA)
+## [不会编译?,点我](https://github.com/disimingqianqian/PY-2FA/releases)
 ## ✨ 核心安全特性
 
 *   **🛡️ 纯本地加密**：采用主密码机制，所有 TOTP 密钥加密保存在本地数据库中，绝不经过任何第三方服务器。
